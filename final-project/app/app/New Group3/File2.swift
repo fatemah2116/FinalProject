@@ -21,7 +21,7 @@ let ZHALIA = foods2Struct(food2Name: "ZHALIA", food2tiame: "ساعات العم�
 let  DIGMIS = foods2Struct (food2Name: "DIGMI'S", food2tiame: "ساعات العمل4pm-10pm", food2ph: ["cake","chocolate-bar","ice-coffee","juice","truffle"], FOOD2GPS: "خيطان قطعة2")
 let  YUMMY = foods2Struct (food2Name: "YUMMY", food2tiame: "ساعات العمل2pm-6pm", food2ph: ["ice-coffee","ice-cream","ice-creamcup","juice"], FOOD2GPS: "مشرف قطعة 1")
  let TAKITAK = foods2Struct(food2Name: "TAKI TAK", food2tiame: "ساعات العمل5pm-10pm", food2ph: ["chocolate","cookie","ice-cream","truffle","ice-coffee"], FOOD2GPS: "سلوى قطعة  3")
- let COIDHOT = foods2Struct(food2Name: "COIDHOT", food2tiame: "ساعات العمل6pm-11pm", food2ph: ["cold-coffee","juice"," latte","cake"], FOOD2GPS:  "7الرميثية قطعة ")
+ let COIDHOT = foods2Struct(food2Name: "COIDHOT", food2tiame: "ساعات العمل6pm-11pm", food2ph: ["cold-coffee","juice"," latte","cake"], FOOD2GPS:  "الرميثية قطعة 7 ")
  let ICECREAM = foods2Struct(food2Name: "ICE CREAM", food2tiame: "ساعات العمل5pm-9pm", food2ph: ["ice-creamGlass","icecreamcone","icecreamRainbow"], FOOD2GPS: "الجابرية قطعة  2")
 
 var Myfood = [FLORYA,COFFEE,MRBATATA,SNACKS,ZHALIA,DIGMIS,YUMMY,TAKITAK,COIDHOT,ICECREAM]

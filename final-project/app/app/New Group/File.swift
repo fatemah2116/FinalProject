@@ -16,7 +16,7 @@ struct foodsStruct :Identifiable{
 }
 let SPACE = foodsStruct(foodName: "SPACE", foodtiame:"ساعات العمل12pm-8pm", foodph: ["HamBurger","French-fries","Soda"],FOODGPS: "خيطان قطعة2")
 let PIZZA = foodsStruct(foodName: "PIZZA", foodtiame: "ساعات العمل2pm-10pm", foodph:  ["French-fries","Pizza","Soda"],FOODGPS: "بیان قطعة 5")
-let HIJRAHFOOD = foodsStruct(foodName: "HIJRAHFOOD", foodtiame: "ساعات العمل12pm-10pm", foodph: ["HamBurger","Orange-Juice","Soda"],FOODGPS: "7الرميثية قطعة ")
+let HIJRAHFOOD = foodsStruct(foodName: "HIJRAHFOOD", foodtiame: "ساعات العمل12pm-10pm", foodph: ["HamBurger","Orange-Juice","Soda"],FOODGPS: "الرميثية قطعة 7")
 let NOMAD = foodsStruct(foodName: "NOMAD", foodtiame: "ساعات العمل12pm-3pm", foodph:  ["HamBurger","French-fries","Soda"],FOODGPS: "الفروانية قطعة3 ")
 let BURGER = foodsStruct(foodName: "BURGER", foodtiame:" ساعات العمل1pm-9pm", foodph:  ["French-fries","HamBurger","Soda"],FOODGPS: "العمرية قطعة4")
 let THEDBURGER = foodsStruct(foodName: "THE D BURGER", foodtiame: "ساعات العمل2pm-9pm", foodph: ["HamBurger","French-fries","juice"], FOODGPS: "الجابرية قطعة  2")
