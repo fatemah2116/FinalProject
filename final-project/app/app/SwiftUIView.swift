@@ -51,8 +51,11 @@ struct SwiftUIView: View {
         
         
         }
+                Spacer()
             }}
+        
     }
+   
     }
     
 }
